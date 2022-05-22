@@ -1,0 +1,14 @@
+title="3p-7p_The_meteor"
+type="scenario_mp"
+icon="misc/ball.png"
+version="0.9.0"
+author="EmileXVIII"
+description="
+This 3p survival scenario allows you to construct buildings and terraform the land (as in A_New_Land scenario) ,for it use team 3 . The recommended starting gold is 200 for team 3 ,difficulty (normal:25 for others,hard:50 for others,very hard:100 for others. Alternative option: choose to be the invador (1:monsters , 2:undead 3,4:orc and trolls)
+This version alow you to teleport your leader by standing on boot images
+
+# notes:
+this scenario work on my local (untested add-on)
+- some error can occurs if you put a side to Nobody
+"
+email="emile.roche@free.fr"
