@@ -11,4 +11,7 @@ This version alow you to teleport your leader by standing on boot images
 this scenario work on my local (untested add-on)
 - some error can occurs if you put a side to Nobody
 "
+
+dependencies=ANLEra, Legend_of_the_Invincibles, Default_L0_Era
+
 email="emile.roche@free.fr"
