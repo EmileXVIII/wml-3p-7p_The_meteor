@@ -5,14 +5,21 @@ version="0.10.0"
 author="EmileXVIII"
 
 description="
-This 3p survival scenario allows you to construct buildings and terraform the land (as in A_New_Land scenario) ,for it use team 3 . The recommended starting gold is 200 for team 3 ,difficulty (normal:25 for others,hard:50 for others,very hard:100 for others. Alternative option: choose to be the invador (1:monsters , 2:undead 3,4:orc and trolls)
-This version alow you to teleport your leader by standing on boot images
+A meteor has crash on the human city and monster are comming for it. As if that is not bad enough, An Orc and Undead alliance has come to see if they can earn profit on this disaster.
+You incarn 3 group of Human survivors. Your gold : Hold enought to rebuild a city and routh out enemies.
+
+This 3p survival scenario allows you to construct buildings and terraform the land (as in A_New_Land scenario).
+
+Alternative option: choose to be the invador (player 1 is monsters , player 2 is undead and players 3 and 4 are orc and trolls)
 
 # notes:
+- This version allow you to teleport your leader by standing on boot images
+- At turn 80 monster keep is destroyed (meteor collapse)
+
 this scenario work on my local (untested add-on)
 - some error can occurs if you put a side to Nobody
+
+source code available at: https://github.com/EmileXVIII/wml-3p-7p_The_meteor
 "
 
 dependencies=ANLEra, Legend_of_the_Invincibles, Default_L0_Era
-
-email="emile.roche@free.fr"
